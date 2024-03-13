@@ -1,0 +1,26 @@
+package learningjava;
+import java.util.Scanner;
+public class scanner_intro {
+	public static void main(String args[]) {
+		Scanner scanner= new Scanner(System.in);
+		System.out.println("what is your weight");
+		String weight=scanner.nextLine();
+		System.out.println("your weight is"+weight);
+		/*
+		scanner inputs it as name\n and nextLine terminates the
+		reading of input when it reads \n
+		*/
+		System.out.println("write your age man");
+		int age= scanner.nextInt();
+		//nextInt reads until \n not \n leaving it in scanner
+		System.out.println("you are "+age+" years old man");
+		
+		scanner.nextLine();
+		//this removes the leftover \n from scanner
+		System.out.println("type fav color");
+		String color=scanner.nextLine();
+		System.out.println("am wearing "+color+" pants");
+		scanner.close();
+	}
+
+}

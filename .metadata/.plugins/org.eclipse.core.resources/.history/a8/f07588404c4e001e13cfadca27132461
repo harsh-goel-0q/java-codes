@@ -1,0 +1,22 @@
+package learningjava;
+import java.util.*;
+
+public class arrays {
+
+	public static void main(String[] args) {
+		
+		int[][] twoDArray = { {1, 2, 3, 4}, {5, 6, 7, 8} };
+		
+        for (int[] i : twoDArray)
+        {
+            System.out.print("[");
+            for (int j : i)
+            {
+                System.out.print(j+"\t");
+            }
+            System.out.println("]");
+		
+	}
+
+}
+}

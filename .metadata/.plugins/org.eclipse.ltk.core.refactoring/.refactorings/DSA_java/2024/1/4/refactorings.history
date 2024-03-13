@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename method &apos;kunal_recursion.BS.BS(...)&apos; to &apos;helper&apos;&#x0A;- Original project: &apos;DSA_java&apos;&#x0A;- Original element: &apos;kunal_recursion.BS.BS(...)&apos;&#x0A;- Renamed element: &apos;kunal_recursion.BS.helper(...)&apos;&#x0A;- Update references to refactored element" delegate="false" deprecate="false" description="Rename method &apos;BS&apos;" flags="589826" id="org.eclipse.jdt.ui.rename.method" input="/&lt;kunal_recursion{BS.java[BS~BS~\[I~I~QArrayList\&lt;QInteger;&gt;;~I~I" name="helper" references="true" stamp="1706328178353" version="1.0"/>
+</session>
