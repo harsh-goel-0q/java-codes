@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename type &apos;kunal.StringBuilder&apos; to &apos;String_Builder&apos;&#x0A;- Original project: &apos;DSA_java&apos;&#x0A;- Original element: &apos;kunal.StringBuilder&apos;&#x0A;- Renamed element: &apos;kunal.String_Builder&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;StringBuilder&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/&lt;kunal{StringBuilder.java[StringBuilder" matchStrategy="1" name="String_Builder" qualified="false" references="true" similarDeclarations="false" stamp="1703164382343" textual="false" version="1.0"/>
-</session>

@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Move &apos;music.wav&apos; to &apos;learningjava&apos;" description="Move &apos;music.wav&apos; to &apos;learningjava&apos;" destination="learningjava" element1="music.wav" flags="7" id="org.eclipse.ltk.core.refactoring.move.resources" resources="1" stamp="1697218225474" updateReferences="true"/>
-</session>

@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename local variable &apos;array&apos; in &apos;kunal.Rough.ceil(...)&apos; to &apos;letters&apos;&#x0A;- Original project: &apos;DSA_java&apos;&#x0A;- Original element: &apos;kunal.Rough.ceil(char[], char).array&apos;&#x0A;- Renamed element: &apos;array&apos;&#x0A;- Update references to refactored element" description="Rename local variable &apos;array&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/&lt;kunal{Rough.java[Rough~ceil~\[C~C@array!61!72!68!72!\[C!0!true" name="letters" references="true" stamp="1701079907575" version="1.0"/>
-</session>
